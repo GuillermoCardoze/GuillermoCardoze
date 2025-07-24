@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Ruby, Ruby on Rails**
+- 🌱 I’m currently learning **AWS Cloud Practitioner on my own time.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GuillermoCardoze](https://github.com/GuillermoCardoze)
 
